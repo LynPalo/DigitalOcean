@@ -1,3 +1,3 @@
 # Digital Ocean with Terraform
 
-Created Droplet and  Load Balancer
+Created Droplet and a Load Balancer
